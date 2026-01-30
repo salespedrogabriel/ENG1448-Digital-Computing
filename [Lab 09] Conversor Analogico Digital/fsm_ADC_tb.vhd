@@ -4,13 +4,11 @@
 --
 -- Create Date:   08:14:17 05/30/2022
 -- Design Name:   
--- Module Name:   C:/Users/aula/Desktop/lab9-eng1448/ADC/fsm_ADC_tb.vhd
--- Project Name:  ADC
+-- Module Name:  
+-- Project Name:
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: fsm_ADC
 -- 
 -- Dependencies:
 -- 
@@ -118,3 +116,4 @@ BEGIN
    end process;
 
 END;
+
