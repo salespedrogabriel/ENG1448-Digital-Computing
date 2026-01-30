@@ -4,13 +4,11 @@
 --
 -- Create Date:   10:08:10 06/17/2022
 -- Design Name:   
--- Module Name:   C:/Users/jpjab/Desktop/lab10-eng1448/lab10-eng1448/VGA/main_tb.vhd
--- Project Name:  VGA
+-- Module Name:  
+-- Project Name: 
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: main
 -- 
 -- Dependencies:
 -- 
@@ -106,3 +104,4 @@ BEGIN
    end process;
 
 END;
+
