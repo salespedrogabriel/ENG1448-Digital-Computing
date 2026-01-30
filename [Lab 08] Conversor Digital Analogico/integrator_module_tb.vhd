@@ -4,14 +4,11 @@
 --
 -- Create Date:   21:08:19 07/04/2022
 -- Design Name:   
--- Module Name:   C:/Users/leobl/Desktop/lab8-eng1448/DAC/integrator_module_tb.vhd
--- Project Name:  DAC
+-- Module Name:   
+-- Project Name:  
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: integrator_module
--- 
 -- Dependencies:
 -- 
 -- Revision:
@@ -112,3 +109,4 @@ BEGIN
    end process;
 
 END;
+
