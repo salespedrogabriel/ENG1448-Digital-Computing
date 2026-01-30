@@ -1,4 +1,4 @@
-# [ENG1448] Computação Digital
+# [ENG1448] Digital Computing
 * **Course:** ENG1488
 * **Semester:** 2024.1
 * **Supervisor:** Felipe Calliari
@@ -7,7 +7,7 @@
   * Thiago Levis
 
 # Description
-Repository of activities carried out during the ENG1448 - Computação Digital course at PUC-Rio 2024.1
+Repository of activities carried out during the ENG1448 - Digital Computing course at PUC-Rio 2024.1
 # Projects / Labs
 * [Lab 01: Bit Comparators](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/tree/main/%5BLab%2001%5D%20Bit%20Comparators) | [Project Goal](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/blob/main/%5BLab%2001%5D%20Bit%20Comparators/%5BLab%2001%5D%20Project%20Goal%20%5BPortuguese%5D.pdf) | [Video](https://youtu.be/dqNgnGApL44) 
 * [Lab 02: Parking](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/tree/main/%5BLab%2002%5D%20Parking) | [Project Goal](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/blob/main/%5BLab%2002%5D%20Parking/%5BLab%2002%5D%20Project%20Goal%20%5BPortuguese%5D.pdf) | [Video](https://youtu.be/nQwSoyd2ZPo) 
