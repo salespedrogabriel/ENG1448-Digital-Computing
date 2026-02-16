@@ -20,6 +20,13 @@ Repository of activities carried out during the ENG1448 - Digital Computing cour
 * [Lab 09: Analog Digital Conversor (ADC)](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/tree/main/%5BLab%2009%5D%20Conversor%20Analogico%20Digital) | [Project Goal](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/blob/main/%5BLab%2009%5D%20Conversor%20Analogico%20Digital/%5BLab%2009%5D%20Project%20Goal%20%5BPortuguese%5D.pdf) | [Video](https://youtu.be/rvBktFWEhNU) 
 * [Lab 10: VGA Controller + Challenge](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/tree/main/%5BLab%2010%5D%20Controlador%20VGA%20e%20Desafio) | [Project Goal](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/blob/main/%5BLab%2010%5D%20Controlador%20VGA%20e%20Desafio/%5BLab%2010%5D%20Project%20Goal%20%5BPortuguese%5D.pdf) | [Video](https://youtu.be/1IOO9ujYo5g) 
 
+## Academic Integrity Notice
+The code in this repository represents my group solutions to the Modular Programming laboratory exercises.
 
+* Use it to **learn**, not to **copy**
+* Understand the logic before applying similar approaches
+* Remember that struggling with a problem is part of the learning process
+
+*Current students, respect your course's academic integrity policies.*
 
 
