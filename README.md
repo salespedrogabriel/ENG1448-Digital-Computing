@@ -21,7 +21,7 @@ Repository of activities carried out during the ENG1448 - Digital Computing cour
 * [Lab 10: VGA Controller + Challenge](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/tree/main/%5BLab%2010%5D%20Controlador%20VGA%20e%20Desafio) | [Project Goal](https://github.com/salespedrogabriel/ENG1448-Computacao-Digital/blob/main/%5BLab%2010%5D%20Controlador%20VGA%20e%20Desafio/%5BLab%2010%5D%20Project%20Goal%20%5BPortuguese%5D.pdf) | [Video](https://youtu.be/1IOO9ujYo5g) 
 
 ## Academic Integrity Notice
-The code in this repository represents my group solutions to the Modular Programming laboratory exercises.
+The code in this repository represents my group solutions to the Digital Computing laboratory exercises.
 
 * Use it to **learn**, not to **copy**
 * Understand the logic before applying similar approaches
